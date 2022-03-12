@@ -201,12 +201,21 @@ Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor cont
 - :envelope:  fernando.brayan.m.g@gmail.com
 
 ## Recuerda dar las gracias :blue_heart:
+
 Este proyecto puedes ocuparlo siempre y cuando:
 - Da la gracias de manera publica :heartpulse:
 - No lo ocupes con fines maliciosos :lock_with_ink_pen:
 - Me invites un cafe :coffee:
 
 Este ultimo no es obligatorio.
+## Recuerda seguirme en YOUTUBE
+
+![Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/2560px-YouTube_Logo_%282013-2017%29.svg.png "Imagen")
+
+
+Tambien tengo un canal en YOUTUBE donde podras ver tutoriales y cosas interesantes, puedes seguirme en esta plataforma si gustas.
+
+- spek14programacion :link: `<link>` : <https://www.youtube.com/channel/UCwPxnD_fdRJggn5ZILh1PRg>
 
 ## Recuerda darme un follow :black_nib:
 
