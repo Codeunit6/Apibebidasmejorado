@@ -29,6 +29,7 @@ git push
  
 ## Consumo de la API :pushpin:
 ![POKEMON](https://pngimage.net/wp-content/uploads/2018/06/open-bar-bebidas-png-3.png "BEBIDAS")
+
 La API que se consume en este proyecto es la de "BEBIDAS" la cual nos sirve para poder usarla dentro de nuestro proyecto en nuestros `Controllers` esto con el fin de poderle pasar los arreglos que se ocupan dentro de nuestra aplicacion.
 
 SI REQUIERE DE INFORMACIÓN DE LA API CONSULTE LA DOCUMENTACIÓN AQUI:
@@ -44,6 +45,7 @@ SI REQUIERE DE ALGUNA AYUDA NO OLVIDE LEER LA DOCUMENTACIÓN DE LARAVEL:
 
 ## Framework (Laravel) :pushpin:
 ![Laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png "Laravel")
+
 Es necesario el uso de este framework para su correcto uso.
 RECUERDA ANTES INSTALAR EL PROYECTO EN TU ENTORNO DE TRABAJO CON EL `CODIGO` 
 ```
@@ -57,6 +59,7 @@ Esto para levantar el servicio de manera LOCAL
 
 ## Php :open_file_folder:
 ![php](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)
+
 Este proyecto tiene un desarrollo de php dentro de la carpeta de models donde podras encontrar las clases necesarias para el funcionamiento de este proyecto.
 
 Este para que la aplicación se pueda ver en un servidor local.
@@ -108,27 +111,39 @@ php artisan make:model "miprimerModel"
 Recuerda que si necesitas algo en especifico busca en la documentacion que ofrece laravel.
 
 ## Pantalla de inicio/index
+
 Aqui podras encontrar el acceso a la informacion que provee nuestra pagina web
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/inicio.jpg "Imagen")
 
 ### Pantalla de bebidas alcoholicas
+
 Aqui podras vizualizar todas las bebidas alcoholicas que se encuentran en la BD
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/bebidas%20alcoholicas.jpg "Imagen")
 
 ### Pantalla de bebidas no alcoholicas
+
 Aqui se pueden vizualizar las bebidas NO alcoholicas que tiene la BD
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/bebidas%20sin%20alcohol.jpg "Imagen")
 
 ### Pantalla del detalle de la bebida
+
 Aqui se muestra como pasando el parametro del nombre de la bebida hace la busqueda con la funcion find para encontrar la bebida necesaria para la BD
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/detalles%20bebida.jpg "Imagen")
 
 ### Pantalla de detalles de ingrediente
+
 En esta pantalla filtra la informacion por medio de un parametro que da el nombre y hace la busqueda del mismo en la api por una URL que nos ofrece la api
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/detalle%20ingrediente.jpg "Imagen")
 
 ### Pantalla de Error 404
+
 En esta imagen se muestra el error cuando no encuentra un ingrediente en la API ya que algunos ingredientes no han sido configurados por lo que arroga este error.
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/404%20error.jpg "Imagen")
 
 ## Pantalla de nosotros 
@@ -136,22 +151,31 @@ En esta pantalla se muestra la informacion del equipo.
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/nosotros.jpg "Imagen")
 
 ## API Yu Gi Oh!
+
 En este proyecto se hizo el uso de la API de yu gi oh hecha por un compañero de trabajo el cual nos proporciona el uso de esta API.
+
 ![Imagen](https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f "Imagen")
 
+- Armando :link: `<link>` : <https://github.com/armandolopezg>
+
 ## Pantalla de consumo de API YuGiOH!
+
 Aqui se podran visualizar el consumo de cartas de una API creada por un compañero de trabajo.
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/cartas%20de%20yugioh.jpg "Imagen")
 
 - Armando :link: `<link>` : <https://github.com/armandolopezg>
 
 ### Pantalla de detalle de carta
+
 Aqui se podran ver el acceso a la carta seleccionada dando su informacion para mostrarla en pantalla, esto se logro gracias al parametro `id`
+
 ![Imagen](https://github.com/Codeunit6/Apibebidasmejorado/blob/main/Project/carta%20detalle.jpg "Imagen")
 
 - Armando :link: `<link>` : <https://github.com/armandolopezg>
 
 ## :pushpin: Importante :pushpin:
+
 Recuerda es necesario que veas el  	:open_file_folder: `route` para ver las especificaciones del proyecto y no comentas un error de ruteo dentro del proyecto. Este se encuentra en la carpeta de routes y vas al archivo :card_index: `web.php`, en estas tambien es necesario mencionar que se llevaron a cabo mediante el uso de controladores de la aplicación, se recomienda no cambiarle el nombre, pero de caso de hacerlo tiene que repetir el proceso en todo el codigo para que este funcione y no suelte errores dentro del programa.
 
 Mencionamos que no hay todavia una documentacion de este proyecto (:card_index_dividers: `.pdf`) por lo que si requiere de una pido que se comunique con el contacto dado aqui.
@@ -170,6 +194,7 @@ Las personas que colaboraron a este proyecto son:
 Recuerda agradecerles publicamente y seguirlos en GitHub.
 
 ## Contacto
+
 Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor contactame aqui:
 - :telephone_receiver:  5540124899
 
@@ -184,6 +209,7 @@ Este proyecto puedes ocuparlo siempre y cuando:
 Este ultimo no es obligatorio.
 
 ## Recuerda darme un follow :black_nib:
+
 En mi perfil podras encontrar cosas interesantes: 
 
 [GitHub](https://github.com/Codeunit6 "GitHub")
